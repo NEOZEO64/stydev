@@ -1,0 +1,54 @@
+#Stilmittel:
+
+Akkumulation:Reihung von Begriffen zu einem genannten oder nicht genannten Oberbegriff
+Allegorie:bildhaft belebte Darstellung eines abstrakten Begriffes
+Alliteration:Gleiche Anfangsbuchstaben von mehreren Wörtern
+Anakoluth:Störung des Satzbaus
+Anapher:Wiederholung von aufeinanderfolgenden Satzgliedern oder Sätzen
+Anastrophe:Wörter werden abweichend von***der üblichen Wortstellung betont vorangestellt
+Antithese:Hervorhebung von Gegenteil
+Aposiopese:absichtliches Abbrechen eines Satzes
+Assonanz:Mehrere Wörter enthalten gleichklingende Vokale
+Asyndeton:unverbundene Aneinanderreihung einzelner Wörter/Satzteile
+Chiasmus:Gleiche Wörter oder Wortgruppen werden***in umgekehrter Reihenfolge überkreuz angeordnet
+Chiffre:besonders verschlüsselte Aussage, individueller, bildhafter Ausdruck
+Correctio:Korrektur eines zu schwachen Ausdrucks
+Ellipse:Ein normalerweise notwendiger Satzteil (z.B. Hilfsverb) wird weggelassen
+Enjambement:ein Satz streckt sich im Gedicht über mehrere Verse hinweg
+Epipher:Das gleiche Wort wird am Ende aufeinanderfolgender***Satzteile oder Sätze spiegelbildlich gegenübergestellt
+Euphemismus:beschönigende Umschreibung
+Hendiadyoin:Zwei Wörter mit (annähernd einer Bedeutung)***verstärken einen Ausdruck
+Homoioteleuton:Wortspiel mit gleichklingenden Endungen
+Hyperbaton:Trennung von zusammengehörenden Wörtern ***(zum Beispiel Attribut, Bezugswort,...)
+Hyperbel:Übertreibung
+Hypotaxe:Unterordnung in der Satzgliederung, Haupt- und Nebensatz zusammengesetzt zu kunstvoll geschachteltem Gefüge
+Interjektion:Ausruf
+Inversion:Wörter stehen im Satz an ungewöhnlicher Stelle
+Ironie:Das gemeinte wird durch die***nicht ernst gemeinte Formulierung seines Gegenteils ausgedrückt
+Klimax:Steigerung im Aussageinhalt
+Lautmalerei:Die Bedeutung des Wortes wird bereits durch den Klang ersichtlich
+Litotes:Aussage durch Verneinung des Gegenteils verstärkt
+Metapher:Hier wir ein anderes Wort für***das gemeinte Wort genommen. (Übertragende Bedeutung)
+Metonymie:Namensvertauschung
+Neologismus:Neuschöpfung eines Wortes
+Oxymoron:Verbindung zweier sich widersprechender oder ausschließender Begriffe
+Paradoxon:Widerspruch, Unerwartetes, scheinbar widersinnige Darstellung, schillernde vieldeutige Formulierung, reizt zur Ausdeutung
+Parallelismus:Inhaltlich oder grammatisch gleichmäßiger Aufbau zwischen mehreren Sätzen
+Parataxe:Beiordnung, Nebeneinanderstellung gleichberechtigter Hauptsätze
+Parenthese:Einschub in Satz (durch Kommata/Gedankenstriche)
+Periphrase:Ein Wort wird durch eine Umschreibung ersetzt
+Personifikation:Vergleich eines Gegenstands oder Tieres mit dem menschlichen Charakter
+Pleonasmus:Ausdruck mit vielen Wörtern, die das gleiche meinen
+Polyptoton:Wiederholung desselben Wortes im unterschiedlichen Kasus
+Polysyndeton:Wörter oder Wortgruppen werden***in einer mehrgliedrigen Aufzählung mit Konjunktionen verbunden
+Repititio: Wiederholung eines bestimmten Ausdrucks
+Rhetorische Frage:Scheinfrage
+Praeteritio:Ich will ja nichts sagen, aber.....
+Symbol:Ein konkreter Gegenstand wird als Träger eines ***allgemeinen Sinnzusammenhangs gesetzt
+Synästhesie: Verbindung unterschiedlicher Sinneseindrücke
+Synekdoche:pars pro toto, ein Teil für ein Ganzes
+Synonym:Sinnverwandtes Wort
+Trikolon:Dreigliedrigkeit
+Vergleich:Direkte Gegenüberstellung zweier oder mehrerer Sachverhalte, die eine Gemeinsamkeit haben
+Zäsur:Sprachlicher oder inhaltlicher Einschnitt bzw. Umbruch, häufig auf metrischer Ebene
+Zeugma:Weglassen eines Satzteils bei der Aufzählung
